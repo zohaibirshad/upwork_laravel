@@ -1,0 +1,3 @@
+Hi
+
+Verification Pin {{ $pin }}
